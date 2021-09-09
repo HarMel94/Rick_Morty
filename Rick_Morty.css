@@ -1,0 +1,22 @@
+ body{
+    background-color: #6b0f1a;
+    background-image: linear-gradient(315deg, #6b0f1a 0%, #b91372 74%);
+}
+
+.RMDiv{    
+    display: flex;
+    flex-wrap: wrap;   
+}
+
+.RMDiv div{
+    position: relative;
+    left: 40px;
+    margin: 6.5px;
+    width: 300px;
+    color: rgb(255, 255, 255);
+}
+
+img{
+    width: 90%;
+    box-shadow: 2px 4px 12px 10px rgba(0, 0, 0, 0.446);
+}
